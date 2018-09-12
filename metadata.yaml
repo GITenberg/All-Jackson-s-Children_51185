@@ -1,0 +1,42 @@
+_repo: All-Jackson-s-Children_51185
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Galouye, Daniel F.
+    aliases:
+    - Galouje, Daniel F.
+    - Galouye, Daniel Francis
+    birthdate: 1920
+    deathdate: 1976
+    gutenberg_agent_id: '35969'
+    url: http://www.gutenberg.org/2009/agents/35969
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_F._Galouye
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Extrasolar planets -- Fiction'
+- !lcsh 'Robots -- Fiction'
+- GITenberg
+title: All Jackson's Children
+url: http://www.gutenberg.org/ebooks/51185
